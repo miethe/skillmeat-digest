@@ -84,6 +84,7 @@
 {"t":"composite","n":"obsidian-pack","h":null,"s":null}
 {"t":"context_pack","n":"pack:__persona__","h":null,"s":null}
 {"t":"context_pack","n":"pack:__persona__","h":null,"s":null}
+{"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
 {"t":"context_pack","n":"pack:research-foundry","h":null,"s":null}
 {"t":"deployment_set","n":"provider-router-v1","h":null,"s":null}
 {"t":"bundle","n":"python-fastapi-stack","h":null,"s":null}
