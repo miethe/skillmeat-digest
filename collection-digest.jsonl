@@ -5,8 +5,8 @@
 {"t":"deployment_set","n":"Architecture & Analysis","h":null,"s":null}
 {"t":"deployment_set","n":"Auth - Design","h":null,"s":null}
 {"t":"deployment_set","n":"Backend Stack","h":null,"s":null}
-{"t":"workflow","n":"CI/CD Accelerator","h":null,"s":null}
 {"t":"workflow","n":"CI/CD Accelerator","h":"b1647d584312831419c4430e9c7e4011796999e03e0e65edd798501f8c286b70","s":null}
+{"t":"workflow","n":"CI/CD Accelerator","h":null,"s":null}
 {"t":"skill","n":"Canvas Design","h":"4747ae869bbe713dda7f719b9f2b817453d5057f082a8c9b7ac6a151dd60e8ae","s":null}
 {"t":"context_file","n":"Data Flow Patterns","h":"7c2f4cee89962df2cb015d63c6a39e5ca20def82eafe32e6974cceff92451112","s":null}
 {"t":"agent","n":"Database Architect","h":"2f6da614da45b091861ed71f186f4377144920bb4c26c8baacc43ff67561eab2","s":null}
@@ -25,8 +25,8 @@
 {"t":"mcp","n":"Filesystem Read-Only","h":"4e5aa58a0c2f0e3db9f62d6c1975e62a36373a115f9c3d719882b5cfc01d21aa","s":null}
 {"t":"project_config","n":"Financial Services Compliance Config","h":"d57ca1e7d58277a7d3385df1492dc7fe0ab2b9455206b5ad6342a362fafbae33","s":null}
 {"t":"composite","n":"Financial Services Compliance Pack","h":null,"s":null}
-{"t":"composite","n":"Financial Services Compliance Stack","h":"3e7db6f73cf726e3d1b7af2268ffaeecf0e8d3dc5f1d8cbb2293903760c484ec","s":null}
 {"t":"composite","n":"Financial Services Compliance Stack","h":null,"s":null}
+{"t":"composite","n":"Financial Services Compliance Stack","h":"3e7db6f73cf726e3d1b7af2268ffaeecf0e8d3dc5f1d8cbb2293903760c484ec","s":null}
 {"t":"context_pack","n":"Financial Services Pack","h":"e6e6ee6f7dd5d0bdb4fe37bce0735326f63024e8334dd8f0e991cb56ffc96afc","s":null}
 {"t":"deployment_set","n":"Frontend Design Suite","h":null,"s":null}
 {"t":"deployment_set","n":"Frontend Stack","h":null,"s":null}
@@ -36,14 +36,14 @@
 {"t":"mcp","n":"Internal DB Explorer","h":"5f5363e451df247f420fd932066a853bcfc8c7c1372a690df5400fe28987c289","s":null}
 {"t":"composite","n":"ML Engineering Stack","h":null,"s":null}
 {"t":"composite","n":"ML Engineering Stack","h":"e85fa1bda26382983f0bd1aa6d834d3a1715e57e3a624125618101e80332bceb","s":null}
-{"t":"deployment_set","n":"ML Platform Deployment","h":"0a115138b15205c61f726997474dcdca18553264c77552dcd8c3355a844766ac","s":null}
 {"t":"deployment_set","n":"ML Platform Deployment","h":null,"s":null}
+{"t":"deployment_set","n":"ML Platform Deployment","h":"0a115138b15205c61f726997474dcdca18553264c77552dcd8c3355a844766ac","s":null}
 {"t":"template","n":"Next.js App Router","h":"4719e235bb6bf13ac15db147368955b23826a588caf80ee8fd9f8a62789c1e13","s":null}
 {"t":"rule_file","n":"No Raw SQL","h":"228d77eae847de589f8712a5e867043283ed4c52e9acaaed6a6d31880f05303b","s":null}
 {"t":"project_config","n":"Open Source Project Config","h":"21c8d51444f0cb55bf989ac67ba79ed318ccd2c91089a1c02dbf824e5c0c41bd","s":null}
 {"t":"rule_file","n":"PEP 8 Compliance","h":"36f9e5aed3414757b78e63947d659269baf01d16cec04be6a1f03ad6901c0482","s":null}
-{"t":"workflow","n":"PR Review Workflow","h":"874a909805cbc9d0beb507b3abcd1b4af4f05a60696755ba1569303f897c03dd","s":null}
 {"t":"workflow","n":"PR Review Workflow","h":null,"s":null}
+{"t":"workflow","n":"PR Review Workflow","h":"874a909805cbc9d0beb507b3abcd1b4af4f05a60696755ba1569303f897c03dd","s":null}
 {"t":"progress_template","n":"Phase Progress Template","h":"077ad9841612bcd680fa995dc87490b44a105893f06e11d432f9cc67f76e75d9","s":null}
 {"t":"deployment_set","n":"Planning","h":null,"s":null}
 {"t":"deployment_set","n":"Planning & Orchestration","h":null,"s":null}
@@ -87,6 +87,7 @@
 {"t":"context_pack","n":"pack:__persona__","h":null,"s":null}
 {"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
 {"t":"context_pack","n":"pack:aos-arc-correlation-forwarding","h":null,"s":null}
+{"t":"context_pack","n":"pack:intenttree","h":null,"s":null}
 {"t":"context_pack","n":"pack:research-foundry","h":null,"s":null}
 {"t":"deployment_set","n":"provider-router-v1","h":null,"s":null}
 {"t":"bundle","n":"python-fastapi-stack","h":null,"s":null}
