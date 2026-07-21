@@ -36,8 +36,8 @@
 {"t":"mcp","n":"Internal DB Explorer","h":"5f5363e451df247f420fd932066a853bcfc8c7c1372a690df5400fe28987c289","s":null}
 {"t":"composite","n":"ML Engineering Stack","h":null,"s":null}
 {"t":"composite","n":"ML Engineering Stack","h":"e85fa1bda26382983f0bd1aa6d834d3a1715e57e3a624125618101e80332bceb","s":null}
-{"t":"deployment_set","n":"ML Platform Deployment","h":null,"s":null}
 {"t":"deployment_set","n":"ML Platform Deployment","h":"0a115138b15205c61f726997474dcdca18553264c77552dcd8c3355a844766ac","s":null}
+{"t":"deployment_set","n":"ML Platform Deployment","h":null,"s":null}
 {"t":"template","n":"Next.js App Router","h":"4719e235bb6bf13ac15db147368955b23826a588caf80ee8fd9f8a62789c1e13","s":null}
 {"t":"rule_file","n":"No Raw SQL","h":"228d77eae847de589f8712a5e867043283ed4c52e9acaaed6a6d31880f05303b","s":null}
 {"t":"project_config","n":"Open Source Project Config","h":"21c8d51444f0cb55bf989ac67ba79ed318ccd2c91089a1c02dbf824e5c0c41bd","s":null}
@@ -85,6 +85,7 @@
 {"t":"composite","n":"obsidian-pack","h":null,"s":null}
 {"t":"context_pack","n":"pack:__persona__","h":null,"s":null}
 {"t":"context_pack","n":"pack:__persona__","h":null,"s":null}
+{"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
 {"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
 {"t":"context_pack","n":"pack:aos-arc-correlation-forwarding","h":null,"s":null}
 {"t":"context_pack","n":"pack:intenttree","h":null,"s":null}
