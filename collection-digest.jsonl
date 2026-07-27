@@ -5,8 +5,8 @@
 {"t":"deployment_set","n":"Architecture & Analysis","h":null,"s":null}
 {"t":"deployment_set","n":"Auth - Design","h":null,"s":null}
 {"t":"deployment_set","n":"Backend Stack","h":null,"s":null}
-{"t":"workflow","n":"CI/CD Accelerator","h":"b1647d584312831419c4430e9c7e4011796999e03e0e65edd798501f8c286b70","s":null}
 {"t":"workflow","n":"CI/CD Accelerator","h":null,"s":null}
+{"t":"workflow","n":"CI/CD Accelerator","h":"b1647d584312831419c4430e9c7e4011796999e03e0e65edd798501f8c286b70","s":null}
 {"t":"skill","n":"Canvas Design","h":"4747ae869bbe713dda7f719b9f2b817453d5057f082a8c9b7ac6a151dd60e8ae","s":null}
 {"t":"context_file","n":"Data Flow Patterns","h":"7c2f4cee89962df2cb015d63c6a39e5ca20def82eafe32e6974cceff92451112","s":null}
 {"t":"agent","n":"Database Architect","h":"2f6da614da45b091861ed71f186f4377144920bb4c26c8baacc43ff67561eab2","s":null}
@@ -25,8 +25,8 @@
 {"t":"mcp","n":"Filesystem Read-Only","h":"4e5aa58a0c2f0e3db9f62d6c1975e62a36373a115f9c3d719882b5cfc01d21aa","s":null}
 {"t":"project_config","n":"Financial Services Compliance Config","h":"d57ca1e7d58277a7d3385df1492dc7fe0ab2b9455206b5ad6342a362fafbae33","s":null}
 {"t":"composite","n":"Financial Services Compliance Pack","h":null,"s":null}
-{"t":"composite","n":"Financial Services Compliance Stack","h":null,"s":null}
 {"t":"composite","n":"Financial Services Compliance Stack","h":"3e7db6f73cf726e3d1b7af2268ffaeecf0e8d3dc5f1d8cbb2293903760c484ec","s":null}
+{"t":"composite","n":"Financial Services Compliance Stack","h":null,"s":null}
 {"t":"context_pack","n":"Financial Services Pack","h":"e6e6ee6f7dd5d0bdb4fe37bce0735326f63024e8334dd8f0e991cb56ffc96afc","s":null}
 {"t":"deployment_set","n":"Frontend Design Suite","h":null,"s":null}
 {"t":"deployment_set","n":"Frontend Stack","h":null,"s":null}
@@ -56,8 +56,8 @@
 {"t":"deployment_set","n":"SkillMeat Meta & Scaffolding","h":null,"s":null}
 {"t":"progress_template","n":"Sprint Retrospective Template","h":"13465e5264eaf78880aa6879e1b7f21d79be1996b141cfcce8fd0ded6b6e35f9","s":null}
 {"t":"context_file","n":"System Architecture","h":"157b18ff7d87a931bce974045c2f5c935ce4da170804e33a468eb3639ac99e1d","s":null}
-{"t":"deployment_set","n":"Test","h":null,"s":null}
 {"t":"composite","n":"Test","h":null,"s":null}
+{"t":"deployment_set","n":"Test","h":null,"s":null}
 {"t":"deployment_set","n":"Test (copy)","h":null,"s":null}
 {"t":"command","n":"Test Runner","h":"2d8a5665ef2241098c6500fcb1d22073eb21531c59f3d7bb455ff04c46fcac22","s":null}
 {"t":"deployment_set","n":"Web App Standard Deployment","h":null,"s":null}
@@ -85,6 +85,9 @@
 {"t":"composite","n":"obsidian-pack","h":null,"s":null}
 {"t":"context_pack","n":"pack:__persona__","h":null,"s":null}
 {"t":"context_pack","n":"pack:__persona__","h":null,"s":null}
+{"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
+{"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
+{"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
 {"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
 {"t":"context_pack","n":"pack:agentic_meta_dev","h":null,"s":null}
 {"t":"context_pack","n":"pack:aos-arc-correlation-forwarding","h":null,"s":null}
