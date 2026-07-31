@@ -56,8 +56,8 @@
 {"t":"deployment_set","n":"SkillMeat Meta & Scaffolding","h":null,"s":null}
 {"t":"progress_template","n":"Sprint Retrospective Template","h":"13465e5264eaf78880aa6879e1b7f21d79be1996b141cfcce8fd0ded6b6e35f9","s":null}
 {"t":"context_file","n":"System Architecture","h":"157b18ff7d87a931bce974045c2f5c935ce4da170804e33a468eb3639ac99e1d","s":null}
-{"t":"composite","n":"Test","h":null,"s":null}
 {"t":"deployment_set","n":"Test","h":null,"s":null}
+{"t":"composite","n":"Test","h":null,"s":null}
 {"t":"deployment_set","n":"Test (copy)","h":null,"s":null}
 {"t":"command","n":"Test Runner","h":"2d8a5665ef2241098c6500fcb1d22073eb21531c59f3d7bb455ff04c46fcac22","s":null}
 {"t":"deployment_set","n":"Web App Standard Deployment","h":"c2f3b93ccf34be315b107d2f5a04d8dbd1037b4e6d1ed4bb73a436e58d00272e","s":null}
@@ -68,6 +68,7 @@
 {"t":"deployment_set","n":"ZZ-wt2","h":null,"s":null}
 {"t":"composite","n":"a11y-audit","h":null,"s":null}
 {"t":"bundle","n":"agentic-sdlc-toolkit","h":null,"s":null}
+{"t":"bundle","n":"aos-workflow-set","h":null,"s":null}
 {"t":"composite","n":"api-contract-hygiene","h":null,"s":null}
 {"t":"bundle","n":"astro-blog-starter","h":null,"s":null}
 {"t":"bundle","n":"canary-import-pack","h":null,"s":null}
