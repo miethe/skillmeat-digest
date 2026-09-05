@@ -127,6 +127,7 @@
 {"t":"context_pack","n":"pack:onboarding-skills-phase1","h":null,"s":null}
 {"t":"context_pack","n":"pack:onboarding-skills-phase1","h":null,"s":null}
 {"t":"context_pack","n":"pack:research-foundry","h":null,"s":null}
+{"t":"context_pack","n":"pack:research-foundry","h":null,"s":null}
 {"t":"deployment_set","n":"provider-router-v1","h":null,"s":null}
 {"t":"bundle","n":"python-fastapi-stack","h":null,"s":null}
 {"t":"composite","n":"react-engineering","h":null,"s":null}
